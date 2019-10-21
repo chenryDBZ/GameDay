@@ -1,0 +1,15 @@
+<?php
+/**
+* @file
+* A description of what your module does.
+*/
+namespace App;
+require_once ("Game.php");
+
+$json = file_get_contents("../payload/data.json");
+$jsonArray = json_decode($json,true);
+
+$test = new \App\Game($json);
+$test->getData();
+$test->get_List($jsonArray);
+//echo ($jsonArray);

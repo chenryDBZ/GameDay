@@ -1,0 +1,1475 @@
+{"games": [
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "IPFW",
+        "full": "Indiana University-Purdue University, Fort Wayne",
+        "seo": "ipfw",
+        "short": "IPFW"
+      },
+      "score": "41",
+      "winner": true
+    },
+    "currentPeriod": "",
+    "gameID": "a1f2fd7a-8943-4a9a-99cc-22c073d90945",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "ILL ST",
+        "full": "Illinois State University",
+        "seo": "illinois-st",
+        "short": "Illinois St."
+      },
+      "score": "12",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "TNT",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Illinois St. IPFW",
+    "url": "/game/basketball-men/d1/2016/11/16/ipfw-illinois-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "RIDER",
+        "full": "Rider University",
+        "seo": "rider",
+        "short": "Rider"
+      },
+      "score": "110",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "a9eaf9d5-e6e3-4f91-9886-d74d9874c1fd",
+    "gameState": "final",
+    "home": {
+
+      "names": {
+        "char6": "HRTFRD",
+        "full": "University of Hartford",
+        "seo": "hartford",
+        "short": "Hartford"
+      },
+      "score": "50",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "TNT",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Hartford Rider",
+    "url": "/game/basketball-men/d1/2016/11/16/rider-hartford"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "LOY MD",
+        "full": "Loyola University Maryland",
+        "seo": "loyola-maryland",
+        "short": "Loyola Maryland"
+      },
+      "score": "47",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "4a08564f-0f9b-447c-ae71-176c96871269",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "LIU",
+        "full": "Long Island University-Brooklyn Campus",
+        "seo": "long-island",
+        "short": "Long Island"
+      },
+      "score": "49",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "ESPN",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Long Island Loyola Maryland",
+    "url": "/game/basketball-men/d1/2016/11/16/loyola-maryland-long-island"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "SEATTL",
+        "full": "Seattle University",
+        "seo": "seattle",
+        "short": "Seattle"
+      },
+      "score": "56",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "c06a1d88-ac8d-4018-9eee-eb26f97aac1c",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "N DAME",
+        "full": "University of Notre Dame",
+        "seo": "notre-dame",
+        "short": "Notre Dame"
+      },
+      "score": "98",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Notre Dame Seattle",
+    "url": "/game/basketball-men/d1/2016/11/16/seattle-notre-dame"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "DEL ST",
+        "full": "Delaware State University",
+        "seo": "delaware-st",
+        "short": "Delaware St."
+      },
+      "score": "10",
+      "winner": false
+    },
+    "currentPeriod": "2ns",
+    "gameID": "78d13a0b-036b-4ecb-9b81-e25e7f3e5c2c",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "UMBC",
+        "full": "University of Maryland, Baltimore County",
+        "seo": "umbc",
+        "short": "UMBC"
+      },
+      "score": "23",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "UMBC Delaware St.",
+    "url": "/game/basketball-men/d1/2016/11/16/delaware-st-umbc"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "BROWN",
+        "full": "Brown University",
+        "seo": "brown",
+        "short": "Brown"
+      },
+      "score": "56",
+      "winner": false
+    },
+    "currentPeriod": "1st",
+    "gameID": "acbae42d-bb85-40da-bace-3241a21c071a",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "URI",
+        "full": "University of Rhode Island",
+        "seo": "rhode-island",
+        "short": "Rhode Island"
+      },
+      "score": "67",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Rhode Island Brown",
+    "url": "/game/basketball-men/d1/2016/11/16/brown-rhode-island"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MS VAL",
+        "full": "Mississippi Valley State University",
+        "seo": "mississippi-val",
+        "short": "Mississippi Val."
+      },
+      "score": "99",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "76164cd3-9bbd-4234-972b-25c6d9033b91",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "KENT",
+        "full": "Kent State University",
+        "seo": "kent-st",
+        "short": "Kent St."
+      },
+      "score": "12",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "ESPN",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Kent St. Mississippi Val.",
+    "url": "/game/basketball-men/d1/2016/11/16/mississippi-val-kent-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MIAMI",
+        "full": "University of Miami (Florida)",
+        "seo": "miami-fl",
+        "short": "Miami (FL)"
+      },
+      "score": "68",
+      "winner": false
+    },
+    "currentPeriod": "1st",
+    "gameID": "c4e98298-d344-48b0-9bbb-d9aa562187cf",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "NO FLA",
+        "full": "University of North Florida",
+        "seo": "north-florida",
+        "short": "North Florida"
+      },
+      "score": "99",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "North Florida Miami (FL)",
+    "url": "/game/basketball-men/d1/2016/11/16/miami-fl-north-florida"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "TX ARL",
+        "full": "University of Texas at Arlington",
+        "seo": "texas-arlington",
+        "short": "Texas-Arlington"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "32eaf2e8-cee5-46c2-a071-7d5a1456f0fa",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "FGCU",
+        "full": "Florida Gulf Coast University",
+        "seo": "fla-gulf-coast",
+        "short": "Fla. Gulf Coast"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Fla. Gulf Coast Texas-Arlington",
+    "url": "/game/basketball-men/d1/2016/11/16/texas-arlington-fla-gulf-coast"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "COPPIN",
+        "full": "Coppin State University",
+        "seo": "coppin-st",
+        "short": "Coppin St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "15893819-e135-44a0-81b2-9b0261cd1164",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "CO CAR",
+        "full": "Coastal Carolina University",
+        "seo": "coastal-caro",
+        "short": "Coastal Caro."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Coastal Caro. Coppin St.",
+    "url": "/game/basketball-men/d1/2016/11/16/coppin-st-coastal-caro"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "UMASSL",
+        "full": "University of Massachusetts Lowell",
+        "seo": "mass-lowell",
+        "short": "Mass.-Lowell"
+      },
+      "score": "105",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "40318bb6-8094-459e-a777-45535a3dc74b",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "IND",
+        "full": "Indiana University, Bloomington",
+        "seo": "indiana",
+        "short": "Indiana"
+      },
+      "score": "104",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "TBS",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Indiana Mass.-Lowell",
+    "url": "/game/basketball-men/d1/2016/11/16/mass-lowell-indiana"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "STFRPA",
+        "full": "Saint Francis University (Pennsylvania)",
+        "seo": "saint-francis-pa",
+        "short": "Saint Francis (PA)"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "pre",
+    "gameID": "8c822e6c-55d5-45a1-9884-152cbbba89a4",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "DUQUES",
+        "full": "Duquesne University",
+        "seo": "duquesne",
+        "short": "Duquesne"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Duquesne Saint Francis (PA)",
+    "url": "/game/basketball-men/d1/2016/11/16/saint-francis-pa-duquesne"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "ROBMOR",
+        "full": "Robert Morris University",
+        "seo": "robert-morris",
+        "short": "Robert Morris"
+      },
+      "score": "87",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "0a3b8810-9b16-4ffe-8bf4-f828a51b9fa8",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "BUCK",
+        "full": "Bucknell University",
+        "seo": "bucknell",
+        "short": "Bucknell"
+      },
+      "score": "98",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Bucknell Robert Morris",
+    "url": "/game/basketball-men/d1/2016/11/16/robert-morris-bucknell"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "COLGAT",
+        "full": "Colgate University",
+        "seo": "colgate",
+        "short": "Colgate"
+      },
+      "score": "65",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "5e648139-fcfe-4a67-b18d-daed7883e9a0",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "CORNEL",
+        "full": "Cornell University",
+        "seo": "cornell",
+        "short": "Cornell"
+      },
+      "score": "109",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "ESPN2",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Cornell Colgate",
+    "url": "/game/basketball-men/d1/2016/11/16/colgate-cornell"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "C CONN",
+        "full": "Central Connecticut State University",
+        "seo": "central-conn-st",
+        "short": "Central Conn. St."
+      },
+      "score": "21",
+      "winner": false
+    },
+    "currentPeriod": "2nd",
+    "gameID": "7dc47a7f-1433-4811-8d71-359c66c10bfc",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "BINGHA",
+        "full": "Binghamton University",
+        "seo": "binghamton",
+        "short": "Binghamton"
+      },
+      "score": "33",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Binghamton Central Conn. St.",
+    "url": "/game/basketball-men/d1/2016/11/16/central-conn-st-binghamton"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "VERMNT",
+        "full": "University of Vermont",
+        "seo": "vermont",
+        "short": "Vermont"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "c46e5955-8141-476b-9554-7a917c0b376c",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "MARIST",
+        "full": "Marist College",
+        "seo": "marist",
+        "short": "Marist"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Marist Vermont",
+    "url": "/game/basketball-men/d1/2016/11/16/vermont-marist"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MOREST",
+        "full": "Morehead State University",
+        "seo": "morehead-st",
+        "short": "Morehead St."
+      },
+      "score": "87",
+      "winner": false
+    },
+    "currentPeriod": "2nd",
+    "gameID": "0bec5dac-106c-49eb-9903-1de898cbf822",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "MARSH",
+        "full": "Marshall University",
+        "seo": "marshall",
+        "short": "Marshall"
+      },
+      "score": "87",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "ESPN2",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Marshall Morehead St.",
+    "url": "/game/basketball-men/d1/2016/11/16/morehead-st-marshall"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "NWSTRN",
+        "full": "Northwestern University",
+        "seo": "northwestern",
+        "short": "Northwestern"
+      },
+      "score": "110",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "ad5bcca5-7d1e-4c8c-a7da-69a695626a2f",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "BUTLER",
+        "full": "Butler University",
+        "seo": "butler",
+        "short": "Butler"
+      },
+      "score": "109",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:00PM ET",
+    "startTimeEpoch": "1479340800",
+    "title": "Butler Northwestern",
+    "url": "/game/basketball-men/d1/2016/11/16/northwestern-butler"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "NC CEN",
+        "full": "North Carolina Central University",
+        "seo": "nc-central",
+        "short": "N.C. Central"
+      },
+      "score": "3",
+      "winner": false
+    },
+    "currentPeriod": "1st",
+    "gameID": "29e6f5e6-7981-43bc-abfd-185c8756029d",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "W CARO",
+        "full": "Western Carolina University",
+        "seo": "western-caro",
+        "short": "Western Caro."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:30PM ET",
+    "startTimeEpoch": "1479342600",
+    "title": "Western Caro. N.C. Central",
+    "url": "/game/basketball-men/d1/2016/11/16/nc-central-western-caro"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "ALA ST",
+        "full": "Alabama State University",
+        "seo": "alabama-st",
+        "short": "Alabama St."
+      },
+      "score": "87",
+      "winner": false
+    },
+    "currentPeriod": "2nd OT",
+    "gameID": "6eeed661-2e23-4e97-8e6a-2c0e9ad068b7",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "LATECH",
+        "full": "Louisiana Tech University",
+        "seo": "louisiana-tech",
+        "short": "Louisiana Tech"
+      },
+      "score": "85",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "TNT",
+    "startDate": "11-16-2016",
+    "startTime": "07:30PM ET",
+    "startTimeEpoch": "1479342600",
+    "title": "Louisiana Tech Alabama St.",
+    "url": "/game/basketball-men/d1/2016/11/16/alabama-st-louisiana-tech"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "KEENE",
+        "full": "Keene State College",
+        "seo": "keene-st",
+        "short": "Keene St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "30ef1511-d356-4ef1-8154-efc8105c0e28",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "BECOOK",
+        "full": "Bethune-Cookman University",
+        "seo": "bethune-cookman",
+        "short": "Bethune-Cookman"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "07:30PM ET",
+    "startTimeEpoch": "1479342600",
+    "title": "Bethune-Cookman Keene St.",
+    "url": "/game/basketball-men/d1/2016/11/16/keene-st-bethune-cookman"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MILWKE",
+        "full": "University of Wisconsin, Milwaukee",
+        "seo": "milwaukee",
+        "short": "Milwaukee"
+      },
+      "score": "47",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "09926113-e98e-4f6b-9194-22285cd3d2dc",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "MEM",
+        "full": "University of Memphis",
+        "seo": "memphis",
+        "short": "Memphis"
+      },
+      "score": "49",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Memphis Milwaukee",
+    "url": "/game/basketball-men/d1/2016/11/16/milwaukee-memphis"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "TAMUCC",
+        "full": "Texas A&M University-Corpus Christi",
+        "seo": "am-corpus-chris",
+        "short": "A&M-Corpus Chris"
+      },
+      "score": "2",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "8baf8f2a-33e7-4129-ada6-10dd6654126f",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "UTPA",
+        "full": "The University of Texas Rio Grande Valley",
+        "seo": "utrgv",
+        "short": "UTRGV"
+      },
+      "score": "2",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "UTRGV A&M-Corpus Chris",
+    "url": "/game/basketball-men/d1/2016/11/16/am-corpus-chris-utrgv"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "PRESEN",
+        "full": "Presentation College",
+        "seo": "presentation",
+        "short": "Presentation"
+      },
+      "score": "83",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "8648a1b6-9abc-4c78-8e6a-4bd85c0b8d5c",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "S DAK",
+        "full": "University of South Dakota",
+        "seo": "south-dakota",
+        "short": "South Dakota"
+      },
+      "score": "81",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "TBS",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "South Dakota Presentation",
+    "url": "/game/basketball-men/d1/2016/11/16/presentation-south-dakota"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "ONEONT",
+        "full": "State University College at Oneonta",
+        "seo": "oneonta-st",
+        "short": "Oneonta St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "dd25b0fc-b2ba-46da-98ec-8cfc19163f40",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "ALBANY",
+        "full": "University at Albany",
+        "seo": "albany-ny",
+        "short": "Albany (NY)"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Albany (NY) Oneonta St.",
+    "url": "/game/basketball-men/d1/2016/11/16/oneonta-st-albany-ny"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "N ORLN",
+        "full": "University of New Orleans",
+        "seo": "new-orleans",
+        "short": "New Orleans"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "b1bcc878-e14b-431d-9719-5283fc9c0d77",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "OKLAST",
+        "full": "Oklahoma State University",
+        "seo": "oklahoma-st",
+        "short": "Oklahoma St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Oklahoma St. New Orleans",
+    "url": "/game/basketball-men/d1/2016/11/16/new-orleans-oklahoma-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "TULSA",
+        "full": "University of Tulsa",
+        "seo": "tulsa",
+        "short": "Tulsa"
+      },
+      "score": "11",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "6fa177ff-340b-4448-8fb6-5961e3786b72",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "WICHST",
+        "full": "Wichita State University",
+        "seo": "wichita-st",
+        "short": "Wichita St."
+      },
+      "score": "56",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Wichita St. Tulsa",
+    "url": "/game/basketball-men/d1/2016/11/16/tulsa-wichita-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "WAYSNE",
+        "full": "Wayne State College (Nebraska)",
+        "seo": "wayne-st-ne",
+        "short": "Wayne St. (NE)"
+      },
+      "score": "40",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "a98e2ebe-043d-49d9-b9fb-c99027a1b0c3",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "SDAKST",
+        "full": "South Dakota State University",
+        "seo": "south-dakota-st",
+        "short": "South Dakota St."
+      },
+      "score": "30",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "BIG10",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "South Dakota St. Wayne St. (NE)",
+    "url": "/game/basketball-men/d1/2016/11/16/wayne-st-ne-south-dakota-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "SEMO",
+        "full": "Southeast Missouri State University",
+        "seo": "southeast-mo-st",
+        "short": "Southeast Mo. St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "64d01cb9-85dd-40c2-8fec-2af584b0e696",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "W ILL",
+        "full": "Western Illinois University",
+        "seo": "western-ill",
+        "short": "Western Ill."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Western Ill. Southeast Mo. St.",
+    "url": "/game/basketball-men/d1/2016/11/16/southeast-mo-st-western-ill"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MSM NY",
+        "full": "Mount St. Mary's University",
+        "seo": "mt-st-marys",
+        "short": "Mt. St. Mary's"
+      },
+      "score": "47",
+      "winner": false
+    },
+    "currentPeriod": "live",
+    "gameID": "38cf1d93-11ba-40dc-91af-0eabf913b15e",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "MINN",
+        "full": "University of Minnesota, Twin Cities",
+        "seo": "minnesota",
+        "short": "Minnesota"
+      },
+      "score": "47",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Minnesota Mt. St. Mary's",
+    "url": "/game/basketball-men/d1/2016/11/16/mt-st-marys-minnesota"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "MO SOU",
+        "full": "Missouri Southern State University",
+        "seo": "mo-southern-st",
+        "short": "Mo. Southern St."
+      },
+      "score": "56",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "e6195648-d91a-4318-9130-d3008accd1bd",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "SIU",
+        "full": "Southern Illinois University at Carbondale",
+        "seo": "southern-ill",
+        "short": "Southern Ill."
+      },
+      "score": "57",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Southern Ill. Mo. Southern St.",
+    "url": "/game/basketball-men/d1/2016/11/16/mo-southern-st-southern-ill"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "TX SOU",
+        "full": "Texas Southern University",
+        "seo": "texas-southern",
+        "short": "Texas Southern"
+      },
+      "score": "70",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "6679390b-97c9-483d-b304-95e2be2579dc",
+    "gameState": "live",
+    "home": {
+      "names": {
+        "char6": "RICE",
+        "full": "Rice University",
+        "seo": "rice",
+        "short": "Rice"
+      },
+      "score": "64",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Rice Texas Southern",
+    "url": "/game/basketball-men/d1/2016/11/16/texas-southern-rice"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "UTSA",
+        "full": "University of Texas at San Antonio",
+        "seo": "utsa",
+        "short": "UTSA"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "71fe44e6-2f03-4807-ad68-620ab98e89b3",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "UIC",
+        "full": "University of Illinois at Chicago",
+        "seo": "ill-chicago",
+        "short": "Ill.-Chicago"
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "BIG10",
+    "startDate": "11-16-2016",
+    "startTime": "08:00PM ET",
+    "startTimeEpoch": "1479344400",
+    "title": "Ill.-Chicago UTSA",
+    "url": "/game/basketball-men/d1/2016/11/16/utsa-ill-chicago"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "JACKST",
+        "full": "Jackson State University",
+        "seo": "jackson-st",
+        "short": "Jackson St."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "d5579341-a278-4d50-9fad-12a02eb8992d",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "SE LA",
+        "full": "Southeastern Louisiana University",
+        "seo": "southeastern-la",
+        "short": "Southeastern La."
+      },
+      "score": "0",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "08:30PM ET",
+    "startTimeEpoch": "1479346200",
+    "title": "Southeastern La. Jackson St.",
+    "url": "/game/basketball-men/d1/2016/11/16/jackson-st-southeastern-la"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "FT LEW",
+        "full": "Fort Lewis College",
+        "seo": "fort-lewis",
+        "short": "Fort Lewis"
+      },
+      "score": "75",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "b3e05a43-e695-4d5f-bafa-4e4ceb92b869",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "COLOST",
+        "full": "Colorado State University",
+        "seo": "colorado-st",
+        "short": "Colorado St."
+      },
+      "score": "84",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Colorado St. Fort Lewis",
+    "url": "/game/basketball-men/d1/2016/11/16/fort-lewis-colorado-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "JAX ST",
+        "full": "Jacksonville State University",
+        "seo": "jacksonville-st",
+        "short": "Jacksonville St."
+      },
+      "score": "67",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "a070f9a7-53cd-4e18-a206-4ded394e7990",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "W KY",
+        "full": "Western Kentucky University",
+        "seo": "western-ky",
+        "short": "Western Ky."
+      },
+      "score": "74",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Western Ky. Jacksonville St.",
+    "url": "/game/basketball-men/d1/2016/11/16/jacksonville-st-western-ky"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "IDAHO",
+        "full": "University of Idaho",
+        "seo": "idaho",
+        "short": "Idaho"
+      },
+      "score": "49",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "7ed14001-d367-4130-9973-9907032ab483",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "NIU",
+        "full": "Northern Illinois University",
+        "seo": "northern-ill",
+        "short": "Northern Ill."
+      },
+      "score": "63",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Northern Ill. Idaho",
+    "url": "/game/basketball-men/d1/2016/11/16/idaho-northern-ill"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "SAMFRD",
+        "full": "Samford University",
+        "seo": "samford",
+        "short": "Samford"
+      },
+      "score": "48",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "9eed0fca-56c7-4802-968c-18fd59317265",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "NM ST",
+        "full": "New Mexico State University",
+        "seo": "new-mexico-st",
+        "short": "New Mexico St."
+      },
+      "score": "58",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "New Mexico St. Samford",
+    "url": "/game/basketball-men/d1/2016/11/16/samford-new-mexico-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "LAMAR",
+        "full": "Lamar University",
+        "seo": "lamar",
+        "short": "Lamar"
+      },
+      "score": "63",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "02a3ba38-0c36-400c-be65-7d2fbf7e2845",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "ORE ST",
+        "full": "Oregon State University",
+        "seo": "oregon-st",
+        "short": "Oregon St."
+      },
+      "score": "60",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "CBS",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Oregon St. Lamar",
+    "url": "/game/basketball-men/d1/2016/11/16/lamar-oregon-st"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "ID ST",
+        "full": "Idaho State University",
+        "seo": "idaho-st",
+        "short": "Idaho St."
+      },
+      "score": "73",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "cac68a41-bbe0-446a-a441-837b3a069afe",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "UT VAL",
+        "full": "Utah Valley University",
+        "seo": "utah-valley",
+        "short": "Utah Valley"
+      },
+      "score": "82",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Utah Valley Idaho St.",
+    "url": "/game/basketball-men/d1/2016/11/16/idaho-st-utah-valley"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "CO CHR",
+        "full": "Colorado Christian University",
+        "seo": "colo-christian",
+        "short": "Colo. Christian"
+      },
+      "score": "73",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "0721943d-6a8a-4b91-9391-699a757b6404",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "N COLO",
+        "full": "University of Northern Colorado",
+        "seo": "northern-colo",
+        "short": "Northern Colo."
+      },
+      "score": "94",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "09:00PM ET",
+    "startTimeEpoch": "1479348000",
+    "title": "Northern Colo. Colo. Christian",
+    "url": "/game/basketball-men/d1/2016/11/16/colo-christian-northern-colo"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "SANFRN",
+        "full": "University of San Francisco",
+        "seo": "san-francisco",
+        "short": "San Francisco"
+      },
+      "score": "75",
+      "winner": true
+    },
+    "currentPeriod": "Final",
+    "gameID": "a90578e2-3a83-4bec-877a-544b56feb275",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "UCSB",
+        "full": "University of California, Santa Barbara",
+        "seo": "uc-santa-barbara",
+        "short": "UC Santa Barbara"
+      },
+      "score": "63",
+      "winner": false
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "10:00PM ET",
+    "startTimeEpoch": "1479351600",
+    "title": "UC Santa Barbara San Francisco",
+    "url": "/game/basketball-men/d1/2016/11/16/san-francisco-uc-santa-barbara"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "UC RIV",
+        "full": "University of California, Riverside",
+        "seo": "uc-riverside",
+        "short": "UC Riverside"
+      },
+      "score": "62",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "2871f8ea-bde8-43f2-b082-a5db57b80082",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "UNLV",
+        "full": "University of Nevada, Las Vegas",
+        "seo": "unlv",
+        "short": "UNLV"
+      },
+      "score": "74",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "CBS",
+    "startDate": "11-16-2016",
+    "startTime": "10:00PM ET",
+    "startTimeEpoch": "1479351600",
+    "title": "UNLV UC Riverside",
+    "url": "/game/basketball-men/d1/2016/11/16/uc-riverside-unlv"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "",
+        "full": "",
+        "seo": "",
+        "short": ""
+      },
+      "score": "58",
+      "winner": false
+    },
+    "currentPeriod": "",
+    "gameID": "f228ca82-3b66-4f54-baca-a26c3c59053f",
+    "gameState": "pre",
+    "home": {
+      "names": {
+        "char6": "SDSU",
+        "full": "San Diego State University",
+        "seo": "san-diego-st",
+        "short": "San Diego St."
+      },
+      "score": "81",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "10:00PM ET",
+    "startTimeEpoch": "1479351600",
+    "title": "San Diego St. "
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "PV A&M",
+        "full": "Prairie View A&M University",
+        "seo": "prairie-view",
+        "short": "Prairie View"
+      },
+      "score": "72",
+      "winner": false
+    },
+    "currentPeriod": "Final",
+    "gameID": "e2ec2a45-21dd-4cf3-ba6b-2f56544aa2ea",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "STMARY",
+        "full": "St. Mary's College of California",
+        "seo": "st-marys-ca",
+        "short": "St. Mary's (CA)"
+      },
+      "score": "110",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "ESPN8",
+    "startDate": "11-16-2016",
+    "startTime": "10:00PM ET",
+    "startTimeEpoch": "1479351600",
+    "title": "St. Mary's (CA) Prairie View",
+    "url": "/game/basketball-men/d1/2016/11/16/prairie-view-st-marys-ca"
+  }},
+  {"game": {
+    "away": {
+      "names": {
+        "char6": "UC IRV",
+        "full": "University of California, Irvine",
+        "seo": "uc-irvine",
+        "short": "UC Irvine"
+      },
+      "score": "65",
+      "winner": false
+    },
+    "currentPeriod": "Final OT",
+    "finalMessage": "Final OT",
+    "gameID": "6eb7525f-010d-4aa0-a51d-3ed2bb6a5945",
+    "gameState": "final",
+    "home": {
+      "names": {
+        "char6": "CAL",
+        "full": "University of California, Berkeley",
+        "seo": "california",
+        "short": "California"
+      },
+      "score": "75",
+      "winner": true
+    },
+    "liveVideoEnabled": false,
+    "network": "",
+    "startDate": "11-16-2016",
+    "startTime": "11:00PM ET",
+    "startTimeEpoch": "1479355200",
+    "title": "California UC Irvine",
+    "url": "/game/basketball-men/d1/2016/11/16/uc-irvine-california"
+  }}
+]}
